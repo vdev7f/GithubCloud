@@ -1,9 +1,9 @@
 Pizza
 Burger
 Samosa
-<<<<<<< HEAD
 Stalingrad
 The enemy at the gates
 Split
 test1
->>>>>>> foods
+test2
+
